@@ -1,0 +1,12 @@
+{
+  "name": "Control_COVID_CCB",
+  "displayName": "Control_COVID_CCB",
+  "expo": {
+    "name": "Control_COVID_CCB",
+    "slug": "Control_COVID_CCB",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
